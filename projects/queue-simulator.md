@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/java-logo-1.png
 title: "Queue Simulator"
 date: 2023
 published: true
