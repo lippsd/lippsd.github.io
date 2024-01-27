@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/first-reading-misconceptions-persist-example.png
+image: img/first-reading/first-reading-misconceptions-persist-example.png
 title: "First Reading Misconceptions Persist"
 date: 2023
 published: true
@@ -26,5 +26,5 @@ My research focused specifically on whether or not this effect would be correcte
 
 Here is the poster-style breakdown of the project:
 <div class="text-center p-4">
-  <img src="../img/first-reading-misconceptions-persist.png">
+  <img src="../img/first-reading/first-reading-misconceptions-persist.png">
 </div>
