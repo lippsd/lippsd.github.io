@@ -39,44 +39,18 @@
       ]
     }
   ],
-  "work": [
-    {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [ 
-        "",
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-      ]
-    }
-  ],
   "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2022-2023",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
     {
       "title": "Manoa Academic Merit Scholarship",
       "date": "2022-Current",
       "awarder": "University of Hawaii at Manoa",
       "summary": "Scholarships awarded to students with a cumulative high school GPA of 3.8+, renewed based on continued success in university classes."
+    },
+    {
+      "title": "B+ Scholarship",
+      "date": "2022-2023",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     }
   ],
   "references": [
