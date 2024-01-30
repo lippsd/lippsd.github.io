@@ -45,10 +45,16 @@
   ],
   "awards": [
     {
-      "title": "Manoa Academic Merit Scholarship",
+      "title": "Dean's List",
       "date": "2022-Current",
       "awarder": "University of Hawaii at Manoa",
       "summary": "Scholarships awarded to students with a cumulative high school GPA of 3.8+, renewed based on continued success in university classes."
+    },
+    {
+      "title": "Manoa Academic Merit Scholarship",
+      "date": "2022-Current",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Awarded to students who earn a semester GPA of 3.5 or higher based on 12 credits or more and do not receive any no credit, withdrawn, incomplete, or failure course grades."
     },
     {
       "title": "B+ Scholarship",
