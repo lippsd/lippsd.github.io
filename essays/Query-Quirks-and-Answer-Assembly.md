@@ -32,7 +32,7 @@ int main()
     }
 }
 ```
-They specifically wanted to know where it was defined in the languages' standards. It turns out that it was just an interesting quirk of how tokens are interpreted in C/C++ code, where (x --> 0) is interpreted as the condition x post-decremented is greater than 0 because white spaces are ignored. 
+They specifically wanted to know where it was defined in the languages' standards. It turns out that it was just an interesting quirk of how tokens are interpreted in C/C++ code, where (x \-\-> 0) is interpreted as the condition x post-decremented is greater than 0 because white spaces are ignored. 
 
 Beyond my own amusement, there was also an opportunity to learn about how to create good questions here. This poster concisely described a simple test case with specific inputs and outputs, the platforms on which the issue occurs, and a clear question about it - and they were rewarded with a spot in the top 10 most upvoted questions on StackOverflow, several clear answers with references to relevant standards and books, history facts... and some humorous answers comically extending the basic principle which caused the initial misunderstanding because the premise is inherently pretty silly. 
 
