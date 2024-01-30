@@ -13,10 +13,10 @@
     ]
   },
   "interests": [
-    { "name": "Software Engineering" },
-    { "name": "UI/UX Design" },
-    { "name": "Philosophy" },
-    { "name": "Psychology" }
+    { "name": "Software Engineering"},
+    { "name": "UI/UX Design"},
+    { "name": "Philosophy"},
+    { "name": "Psychology"}
   ],
   "skills": [
     {
@@ -36,6 +36,10 @@
       "startDate": "Fall, 2022",
       "endDate": "Present",
       "courses": [
+        "Algorithms", 
+        "Data Structures", 
+        "Discrete Mathematics", 
+        "Software Engineering"
       ]
     }
   ],
