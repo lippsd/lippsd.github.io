@@ -19,8 +19,8 @@ I have only just started familiarizing myself with - including learning about th
 
 Anyway, while I often struggled to grok the more in-depth answers given, I *was* able to get something. A few somethings, in fact. 
 
-## --> in C/C++
-For one, some amusement on reading posts like, "[What is the '-->' operator in C/C++?](https://stackoverflow.com/questions/1642028/what-is-the-operator-in-c-c)", wherein the curious poster asks about an additional arrow operator with a double-dash (alongside the more commonly used single-dash ‘->’ operator) which inexplicably worked as ‘x down to y’ in a while loop as follows, directly borrowed from the original post:
+## \-\-> in C/C++
+For one, some amusement on reading posts like, "[What is the '\-\->' operator in C/C++?](https://stackoverflow.com/questions/1642028/what-is-the-operator-in-c-c)", wherein the curious poster asks about an additional arrow operator with a double-dash (alongside the more commonly used single-dash ‘->’ operator) which inexplicably worked as ‘x down to y’ in a while loop as follows, directly borrowed from the original post:
 ```
 #include <stdio.h>
 int main()
