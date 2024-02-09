@@ -11,12 +11,15 @@ labels:
 ---
 
 Recently I have begun trying out ESLint, a linter, which enforces code quality and style checks on code as its being written. Basically, it looks at what you write and tells you that it is bad practice or outright wrong - and sometimes even why.
+
 ## What is a linter?
 The term 'linter' [apparently](https://en.wikipedia.org/wiki/Lint_(software)) comes from literal laundry lint, with the analogy being that those annoying little bits of fuzz are comparable to those vague and unreadable code snippets most programmers end up writing at some point in their programming journey while steeped in a delirious haze induced by both a lack of sleep and an impending deadline.
+
 ## ESLint Experiences
-So far, my personal experience with this particular linter has been less than positive. I have had to deal with a lot of annoying little configuration and setup issues which, ironically, combine into more 'lint' than could ever be present in the fairly short code snippets I write for the [Software Engineering course](javascript-and-crossfit.md) I am in. 
+So far, my personal experience with this particular linter has been less than positive. I have had to deal with a lot of annoying little configuration and setup issues which, ironically, combine into more 'lint' than could ever be present in the fairly short code snippets I write for the [Software Engineering course](javascript-and-crossfit.md) I am in.
 
 This almost certainly has little to do with ESLint itself. Rather, much of the problem stems from my own lack of understanding. I began using the software using tutorials that I rarely understood with any depth, making the entire setup a bit of a black box - so when something in that black box fails, its a struggle to find out why, let alone try to fix it.
+
 ## Thoughts on Linters
 Regardless of my personal experiences, linters and other software that standardize code quality and style play a vital role in the software engineering ecosystem. 
 
@@ -26,6 +29,6 @@ When new eyes - a team member, or the original creator a few days after the code
 
 So long as the linter is designed well, of course.
 
-## 
+## Closing Thoughts
 
-There is great gratification in finally fixing each suggestion given by a linter and getting a green checkmark. Its like the file being written [*clicked*](code-clicks.md) into completion - at least, until it runs and fails to give the desired outcome. *C'est la vie*.
+While at times some of a linter's suggestions may seem pedantic, they absolutely serve a greater purpose and become even more valuable as a project grows. And, there is good gratification in finally fixing each suggestion given by a linter and getting a green checkmark. Its like the file being written [*clicked*](code-clicks.md) into completion - at least, until it runs and fails to give the desired outcome. *Mais c'est la vie*.
