@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "AI and I"
+title: "Artificial Education"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-07
 published: true
