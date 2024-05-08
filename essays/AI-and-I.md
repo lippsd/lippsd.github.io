@@ -16,7 +16,7 @@ The topic of AI in work and education has become a hot-button issue as their cap
 In education, AI can be a helpful tool or a way to cheat, and the reality of what its accessibility means must be taken into account - and, hopefully, taken advantage of by educators, rather than just by their students (for better or for worse). 
 Many educators have chosen to ban the use of AI outright, but students have always done their best to skirt around similar rules and AI is no exception. 
 
-Within Software Engineering, AI can be useful for filling in the gaps of particular knowledge that a good developer might have when working within an unfamiliar framework or language while using familiar techniques. It becomes more problematic the larger those knowledge gaps are.
+Within software engineering, AI can be useful for filling in the gaps of particular knowledge that a good developer might have when working within an unfamiliar framework or language while using familiar techniques. It becomes more problematic the larger those knowledge gaps are.
 
 For full disclosure: My experiences using AI have been limited to a small amount of recreational use of ChatGPT and an image generator I do not recall the name of to see what they can do. I have a generally negative disposition toward AI and its use.
 
@@ -94,13 +94,18 @@ Typical testing and bug-fixing strategies (running code, looking for failure poi
 I have not used AI for this area.
 
 For most areas: I do not trust AI enough to do as well as I would want it to - I trust my abilities and perspective more. 
+
 As I described previously, AI is best used when filling in small gaps of knowledge. In my experience, reading a lot of answers from the internet can be more human-oriented and useful. 
-By the time I had done some reading and practice I did not have significant-enough gaps in knowledge that AI would be useful for. In the future, when I use the ideas from classes like this one in my career, AI would be useful for jogging my memory.
+By the time I had done some reading and practice I did not have significant-enough gaps in knowledge that AI would be useful for. 
+In the future, when I use the ideas from classes like this one in my career, AI would be useful for jogging my memory.
 
 ### III. Impact on Learning and Understanding:
 
-The use of AI has not changed my learning experience significantly because I did not use it. Generally, so long as it is used to fill in small knowledge gaps it will not harm the learning process.
+The use of AI has not changed my learning experience significantly because I did not use it. 
+
+Generally, so long as it is used to fill in small knowledge gaps it will not harm the learning process.
 A feeling I have, though, is that certain people will have a hard time limiting their use of AI to that purpose alone. 
+
 The existence of AI technology and what I know about it has enhanced my understanding of software engineering by serving as an interesting example; for instance, reduction: Large Language Models reduce basically every problem (input/question) into one solvable using strings of text, which is fascinatingly flexible.
 
 ### IV. Practical Applications:
@@ -110,20 +115,29 @@ I have not used AI for any significant undertakings. As stated previously, I thi
 ### V. Challenges and Opportunities:
 
 I have not encountered any challenges or limitations regarding the use of AI. I believe AI can be best integrated into software engineering education, and education in general, by assuming students will use AI whether it is banned or not.
+
 From there, teaching about approaches to AI such that it can be used as a helpful tool rather than a poor replacement for understanding is very important, but the use of those approaches is up to students. The saying about horses and water comes to mind.
 
 ### VI. Comparative Analysis:
 
 In regards to software engineering education: traditional teaching methods tend to involve a mixture of memorization and skills training. 
+
 You memorize basic facts about programming languages and frameworks and then practice using them.
+
 You memorize facts about algorithm runtimes and then practice deciding where to apply them given a real-world problem.
+
 AI-enhanced approaches, in my opinion, should focus on skills training - reading comprehension, problem reduction, and analysis - while leaving things like boilerplate code, insignificant language quirks, and other parts of implementation in the hands of AI.
+
 The greatest risk of AI-enhanced education is an uninterested student trying to use AI to get past a class, building a weak foundation that will force them to continue relying on AI in future courses.
 
 ### VII. Future Considerations:
 
-In the future, AI absolutely will continue to be used, to a greater and greater extent, by students and teachers alike. When a knowledgeable individual uses AI, they can revise and edit its output to get good, worthwhile content.
+In the future, AI absolutely will continue to be used, to a greater and greater extent, by students and teachers alike. 
+
+When a knowledgeable individual uses AI, they can revise and edit its output to get good, worthwhile content.
+
 When an unknowledgeable person (i.e. a new student) uses AI, the quality of its output is difficult to gauge and improve on. Further, a build-up of knowledge gaps could happen, leaving more and more of the students' work in the hands of AI and harming their development.
+
 Educators will need to develop the tools necessary to mitigate these issues, but it is hard to predict what those tools will be. Its possible that classwork will need to be done with supervision to avoid overreliance on AI - the 'flipped classroom' model.
 
 ### VIII. Conclusion:
