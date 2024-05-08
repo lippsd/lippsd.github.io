@@ -24,45 +24,73 @@ For full disclosure: My experiences using AI have been limited to a small amount
 I have used AI in class this semester in the following areas:
 
   1. Experience WODs e.g. E18
+
 I have not used AI for this area.
+
 After an attempt and watching the video, further assistance was unneeded.
+
   2. In-class Practice WODs
+
 I have not used AI for this area.
 I thought working through the obstacles I might face would be more beneficial without the use of AI.
+
   3. In-class WODs
+
 I have not used AI for this area.
 By the time in-class WODs came around, I was prepared well enough to complete them because of the practice and homework WODs.
+
   4. Essays
+
 I have not used AI for this area.
 I typically enjoy writing, so using AI would be unfun.
+
   5. Final project
+
 I have not used AI for this area.
 I never felt stuck enough on a topic to need AI rather than simple internet searches.
+
   6. Learning a concept / tutorial
+
 I have not used AI for this area.
 The tutorial videos, classwork, and talking to my peers were enough for me to understand the class material.
+
   7. Answering a question in class or in Discord
+
 I have not used AI for this area.
 If I cannot answer a question myself, I would rather not trust AI to do it in my place.
+
   8. Asking or answering a smart-question
+
 I have not used AI for this area.
 I have not asked nor answered a smart-question in the Discord channel.
+
   9. Coding example e.g. “give an example of using Underscore .pluck”
+
 I have not used AI for this area.
 In cases like the example above, it was preferable to look through documentation rather than use AI.
+
   10. Explaining code
+
 I have not used AI for this area.
 If I could not understand a code snippet, I read through it carefully and/or rewinded the class tutorial videos.
+
   11. Writing code
+
 I have not used AI for this area.
 There were plenty of example code snippets I could refer to when writing code, so AI help was unnecessary.
+
   12. Documenting code
+
 I have not used AI for this area.
 I have bad documentation habits, so either I forgot to add good comments or I understood my code well enough that documentation was quick and easy.
+
   13. Quality assurance 
+
 I have not used AI for this area.
 Typical testing and bug-fixing strategies (running code, looking for failure points, ESLint) were sufficient for quality purposes.
+
   14. Other uses in ICS 314 not listed above
+
 I have not used AI for this area.
 
 For most areas: I do not trust AI enough to do as well as I would want it to - I trust my abilities and perspective more. 
