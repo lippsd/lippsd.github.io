@@ -13,10 +13,10 @@
     ]
   },
   "interests": [
-    { "name": "Software Engineering"},
-    { "name": "UI/UX Design"},
-    { "name": "Philosophy"},
-    { "name": "Psychology"}
+    {"name":"Software Engineering"},
+    {"name":"UI/UX Design"},
+    {"name":"Philosophy"},
+    {"name":"Psychology"}
   ],
   "skills": [
     {
