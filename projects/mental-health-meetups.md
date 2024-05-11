@@ -18,6 +18,6 @@ Sadly, not enough time was left to gather sufficient participants after all the 
 
 This was one of the first major disappointments of my academic career. I put a lot of work and care into the project, and to see it all go to waste was disheartening. 
 
-I learned a lot in the process, though. In the immediate aftermath, I learned how to reckon with the grief associated with a dead project. Throughout the project, I got hands-on experience with professionalism, building redundant crisis management systems, using research to prove the efficacy of certain strategies, and planning within both the highly specific and bigger picture frames of reference. 
+I learned a lot in the process, though. In the immediate aftermath, I learned how to let go of a dead project. Throughout the project, I got hands-on experience with professionalism, building redundant crisis management systems, using research to prove the efficacy of certain strategies, and planning within both the highly specific and bigger picture frames of reference. 
 
-I practiced writing with quality in quantity, adjusting the style and form of a presentation with the audience in mind, and worked on everything - from the logo to the planned topics for each meeting - all the way up until the project's closure. As much as it hurt to let this project go, these skills stay.
+I practiced writing with quality in quantity, adjusting the style and form of a presentation with the audience in mind, and worked on everything - from the logo to the planned topics for each meeting - all the way up until the project's closure. As much as it hurt to let this project go, these skills remain.
